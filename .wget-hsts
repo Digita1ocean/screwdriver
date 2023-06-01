@@ -1,0 +1,7 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+releases.hashicorp.com	0	1	1685054701	31536000
+go.dev	0	1	1685054711	31536000
+github.com	0	1	1685022385	31536000
+golang.org	0	1	1685054711	31536000
